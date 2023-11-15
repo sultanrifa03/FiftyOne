@@ -15,7 +15,7 @@ export const Home = () => {
           </fieldset>
           <div className='mx-16 flex my-16 shadow-xl p-5 rounded-[10px]'>
             <div className='me-12'>
-              <img src={TestCarousel} className='max-w-screen-sm h-[70vh]' alt='' />
+              <img src={TestCarousel} className='max-w-screen-sm h-[70vh]' alt='logo ForEats' />
             </div>
             <div>
               <h1 className='mb-16'>For Eats</h1>
